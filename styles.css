@@ -1,0 +1,21 @@
+.error{
+    color: rgb(143, 1, 1);
+}
+
+.spicy{
+    color: red;
+}
+
+#content{
+    color: aqua;
+}
+ div p{
+    color: purple;
+ }
+ a[href="https://twitch.tv/twoliptv"]{
+    background-color: aquamarine;
+    color: black;  
+    font-weight: bold;
+    text-transform: uppercase;
+
+ }
